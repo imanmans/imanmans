@@ -21,4 +21,4 @@ I started my journey in **software development**, building web applications and 
 ---
 
 ## 📫 Connect with me
-- 🔗 LinkedIn: [https://www.linkedin.com/in/iman-mansour]
+- 🔗 [LinkedIn](https://www.linkedin.com/in/iman-mansour)
